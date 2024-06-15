@@ -1,6 +1,8 @@
 # IAD Project
 
-![IAD Project](path/to/your/logo.png
+<div align="center">
+  <img src="https://t4.ftcdn.net/jpg/03/97/02/07/360_F_397020794_LXE0WLqWxcbhIf2UwXfRtLJwjw8aX5Wj.jpg" alt="AI Logo">
+</div>
 
 ## Overview
 
