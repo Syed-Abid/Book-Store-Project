@@ -21,9 +21,9 @@
 
 ## Tech Stack
 
-- **Front-end:** HTML, CSS
-- **Back-end:** Node.js, Express.js
-- **Database:** MongoDB
+- **Front-end:** insert icons of html and css
+- **Back-end:** Insert icons of express and node js
+- **Database:** insert icon of mongodb
 
 ## Installation
 
