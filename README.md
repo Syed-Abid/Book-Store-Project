@@ -1,4 +1,4 @@
-# IAD Project
+# MERN Book Store Project
 
 <div align="center">
   <img src="https://media.licdn.com/dms/image/C4E12AQE0Zs4FPMdGlw/article-cover_image-shrink_600_2000/0/1625736527971?e=2147483647&v=beta&t=VaLsOEC7OcZ-2XbztMjCdCtgq0EGonJqKEBkUWyPteE" alt="Mern Logo">
